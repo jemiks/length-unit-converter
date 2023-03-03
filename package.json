@@ -1,0 +1,24 @@
+{
+  "name": "length-unit-converter",
+  "version": "1.0.0",
+  "description": "length-unit-converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemiks/length-unit-converter.git"
+  },
+  "keywords": [
+    "length",
+    "unit",
+    "converter"
+  ],
+  "author": "jemiks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jemiks/length-unit-converter/issues"
+  },
+  "homepage": "https://github.com/jemiks/length-unit-converter#readme"
+}
